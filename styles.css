@@ -98,6 +98,7 @@ div.polaroid {
   }
   
   /* Change background on mouse-over */
+  
   .navbarbottom a:hover {
     background: #ddd;
     color: black;
