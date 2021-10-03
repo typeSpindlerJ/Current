@@ -35,7 +35,7 @@ body {
     color: #b3b3b3;
     padding: 30px 30px; 
     text-decoration: none;
-    font-size: 30px;
+    font-size: 28px;
     
  }
   
@@ -65,7 +65,7 @@ div.polaroid {
   
   div.container {
     
-    text-align: center;
+    text-align: left;
     padding: 5px 0px;
     font-size: xx-large;    
   }
@@ -92,7 +92,7 @@ div.polaroid {
     color: #818181;
     padding: 30px 30px;   
     text-decoration: none;
-    font-size: 30px;
+    font-size: 28px;
   }
   
   /* Change background on mouse-over */
