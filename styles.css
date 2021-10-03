@@ -67,7 +67,8 @@ div.polaroid {
     
     text-align: left;
     padding: 5px 0px;
-    font-size: xx-large;    
+    font-size: xx-large;  
+    margin-left: 20px;
   }
 
   img {
