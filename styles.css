@@ -106,3 +106,13 @@ div.polaroid {
   .navbarbottom a:active {
       background: green;
   }
+
+  #right {
+    float: right;
+    margin-right: 20px;
+    font-size: x-large;
+  }
+
+  #code {
+    font-size: large;
+  }
